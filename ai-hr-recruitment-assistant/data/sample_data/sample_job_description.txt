@@ -1,0 +1,38 @@
+Job Title: AI/ML Engineer
+Company: Nexora Intelligence
+Location: Bengaluru, India (Hybrid)
+Employment Type: Full-time
+
+About the Role:
+We are looking for an AI/ML Engineer to help build, evaluate, and deploy machine
+learning models that power our core product features, working closely with data
+and backend engineering teams.
+
+Responsibilities:
+- Build and evaluate machine learning models for classification and prediction tasks
+- Write SQL queries to extract and prepare training data
+- Containerize models with Docker and expose them via REST APIs
+- Work with cloud infrastructure (AWS) for training and deployment
+- Collaborate with the team using Git for version control
+
+Required Skills:
+- Python
+- Machine Learning
+- SQL
+- AWS
+
+Preferred Skills:
+- Docker
+- REST APIs
+- Git
+
+Technical Requirements:
+- Experience with a cloud platform (AWS preferred)
+- Familiarity with containerization (Docker)
+- Familiarity with REST API design
+
+Qualifications:
+- Bachelor's degree in Computer Science, AI/Data Science, or related field
+- 1-2 years of experience in a machine learning or data science role (internships count)
+
+Minimum Experience: 1 year

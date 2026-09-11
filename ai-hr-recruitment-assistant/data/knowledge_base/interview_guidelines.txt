@@ -1,0 +1,29 @@
+INTERVIEW GUIDELINES
+
+General Principles
+- Structure every interview around the job's core requirements, not the candidate's resume alone.
+- Ask open-ended questions that require the candidate to explain their reasoning, not just recall facts.
+- Use the STAR method (Situation, Task, Action, Result) to evaluate behavioral answers.
+- Give every candidate the same core question set for a given role, so answers can be compared fairly.
+- Never ask about age, marital status, religion, disability, pregnancy, or family plans.
+
+Technical Interviews
+- Start with a warm-up question the candidate can answer confidently.
+- Ask candidates to walk through a real project from their resume in technical depth.
+- For missing or partial-match skills, ask a foundational question to gauge how quickly they could ramp up.
+- Include at least one applied/practical question, not just definitions.
+
+Behavioral Interviews
+- Focus on collaboration, ownership, handling ambiguity, and learning from failure.
+- Ask for specific examples, not hypotheticals, when possible.
+- Probe for what the candidate personally did versus what the team did.
+
+Skill-Gap Interviews
+- When a required skill is missing or only partially demonstrated, ask a question that tests
+  the candidate's ability to reason about the underlying concept, not just recite tool syntax.
+- Use these answers to judge learning speed and adjacent knowledge, not to penalize unfairly.
+
+Evaluation
+- Score each answer against a specific evaluation point, not a general impression.
+- Separate "can do the job" (skills/experience) from "will do the job well" (motivation/fit).
+- Document evidence for each rating so decisions can be reviewed and justified later.

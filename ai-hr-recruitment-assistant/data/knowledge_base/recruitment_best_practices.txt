@@ -1,0 +1,29 @@
+RECRUITMENT BEST PRACTICES
+
+Fair and Unbiased Screening
+- Evaluate candidates strictly on skills, experience, qualifications, projects, and certifications.
+- Do not factor gender, race, religion, age, disability, nationality, sexual orientation, political
+  affiliation, or any other protected or sensitive characteristic into any score or recommendation.
+- If such information appears in a resume, ignore it entirely during evaluation.
+- Use structured, consistent criteria across all candidates for the same role so decisions are explainable.
+
+Match Scoring Philosophy
+- Required skills should carry more weight than preferred/nice-to-have skills.
+- A strong overall project/experience narrative can offset a few missing preferred skills.
+- Experience "years" is a rough proxy — depth and relevance of experience matters more than raw tenure.
+- Always explain why a score was given in plain language, referencing specific skills and experience.
+
+Recommendation Categories
+- Strongly Recommend: meets or exceeds nearly all required skills and experience; strong overall fit.
+- Recommend: meets most required skills; minor, learnable gaps; solid overall fit.
+- Consider: meets some required skills but has notable gaps; may be worth an exploratory interview.
+- Not Recommended: missing multiple critical required skills or experience level; poor overall fit.
+
+Responsible Use of AI in Hiring
+- AI-generated match scores and recommendations are decision-support only, not a final hiring decision.
+- A human recruiter or hiring manager should always review AI output before any hiring action is taken.
+- Clearly label AI-assisted output as such to every user of the system.
+
+Candidate Experience
+- Keep the process transparent: candidates should understand what is being evaluated and why.
+- Provide constructive, specific feedback wherever possible instead of generic rejections.

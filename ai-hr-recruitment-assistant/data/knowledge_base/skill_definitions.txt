@@ -1,0 +1,22 @@
+SKILL DEFINITIONS AND PROFICIENCY LEVELS
+
+Proficiency Levels
+- Beginner: Familiar with basic concepts, has completed tutorials or coursework, limited hands-on project use.
+- Intermediate: Has applied the skill in at least one real project or job, can work with moderate guidance.
+- Advanced: Has deep, repeated hands-on experience, can debug complex issues and make design decisions independently.
+- Expert: Recognized go-to person for the skill, mentors others, contributes to best practices or tooling.
+
+Common Data / AI / ML Role Skill Clusters
+- Programming: Python, SQL, R, Java, JavaScript
+- Data Analysis: Pandas, NumPy, Excel, data visualization (Matplotlib, Seaborn, Power BI, Tableau)
+- Machine Learning: scikit-learn, model evaluation, feature engineering, TensorFlow/PyTorch for deep learning
+- Cloud & DevOps: AWS/Azure/GCP, Docker, Kubernetes, Terraform, CI/CD, Git version control
+- APIs & Backend: REST APIs, Flask/FastAPI/Django, authentication basics
+- Soft Skills: Communication, stakeholder management, problem-solving, teamwork, adaptability
+
+Notes for Matching
+- Related tools (e.g. Docker and Kubernetes, Power BI and Tableau) often indicate transferable skill,
+  even if not an exact match — treat these as partial matches rather than automatic strong matches.
+- A candidate listing a skill only inside a project description, but not in the skills list, should
+  still be credited if the usage is clear and recent.
+- "AWS Basic" or similar self-rated qualifiers usually indicate a partial rather than strong match.

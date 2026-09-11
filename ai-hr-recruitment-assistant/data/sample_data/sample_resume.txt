@@ -1,0 +1,32 @@
+Ananya Rao
+ananya.rao@email.com | +91-9123456780 | Hyderabad, India
+
+SUMMARY
+Final-year B.Tech student in Artificial Intelligence & Data Science with hands-on
+experience building machine learning models and data analysis pipelines using
+Python, SQL, and cloud basics.
+
+EDUCATION
+B.Tech in Artificial Intelligence & Data Science, JNTU Hyderabad, 2025 (expected), CGPA 8.4
+
+EXPERIENCE
+Data Science Intern — Cognivya Labs (Jan 2025 - Present)
+Built and evaluated classification models in scikit-learn for a customer analytics
+pipeline, and wrote SQL queries to prepare training data from a cloud data warehouse.
+
+SKILLS
+Python, SQL, Machine Learning, Data Analysis, Power BI, AWS, Pandas, NumPy,
+scikit-learn, Matplotlib, Git
+
+CERTIFICATIONS
+AWS Cloud Practitioner Essentials
+Google Data Analytics Professional Certificate
+
+PROJECTS
+Student Performance Prediction: Built a machine learning model in scikit-learn to
+predict at-risk students using academic and attendance data, achieving 88% accuracy.
+Technologies: Python, scikit-learn, Pandas, Matplotlib.
+
+Retail Sales Dashboard: Designed a Power BI dashboard connected to a SQL database
+to track regional retail sales trends and highlight underperforming stores.
+Technologies: Power BI, SQL, DAX.

@@ -1,0 +1,29 @@
+COMMON JOB ROLE REQUIREMENT BASELINES
+
+Data Analyst
+- Core skills: SQL, Excel, Python (Pandas), data visualization, statistics fundamentals.
+- Typical minimum experience: 0-2 years junior, 2-4 years mid-level.
+- Strong candidates translate business questions into data queries and clear visual/narrative insights.
+
+Python Developer
+- Core skills: Python, OOP fundamentals, REST APIs, Git, testing frameworks (pytest), SQL basics.
+- Typical minimum experience: 0-2 years junior, 2-5 years mid-level.
+- Strong candidates show clean code practices, debugging ability, and experience with a web/backend
+  framework (Flask, Django, FastAPI) or applied ML stack (scikit-learn, pandas, numpy).
+
+AI/ML Engineer
+- Core skills: Python, Machine Learning fundamentals, SQL, model evaluation, data preprocessing.
+- Common technical requirements: cloud platform experience (AWS/Azure/GCP), Docker, REST APIs, Git.
+- Typical minimum experience: 1-3 years junior/mid-level.
+- Strong candidates can discuss trade-offs (bias/variance, precision/recall), have deployed at least
+  one model, and are comfortable containerizing and serving models via an API.
+
+Data Engineer
+- Core skills: SQL, Python, ETL/ELT pipelines, a cloud platform (AWS/Azure/GCP), workflow orchestration.
+- Typical minimum experience: 1-3 years junior/mid-level.
+- Strong candidates understand data modeling, pipeline reliability, and basic data quality practices.
+
+Interview Evaluation Guidelines by Role
+- For AI/ML roles: probe model evaluation metrics, overfitting/underfitting, and deployment experience.
+- For data roles: probe SQL query design, data cleaning judgment calls, and communicating results clearly.
+- For all roles: always include one question tied directly to a project the candidate listed themselves.
