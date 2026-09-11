@@ -31,7 +31,7 @@ there's no GPU, no local LLM install, and no paid API required to try it.
 ## Quickstart
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ROHITH-0211/AI-HR-recruitment-assistant
 cd ai-hr-recruitment-assistant
 python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
